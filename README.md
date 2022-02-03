@@ -1,1 +1,1 @@
-# Merhaba
+# Merhaba burada Golang örnekleri vardır.
